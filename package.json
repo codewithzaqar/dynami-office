@@ -1,0 +1,15 @@
+{
+  "name": "dynamix",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> An Unofficial Dynami Office Online Desktop Client. Free of Cost.</p>",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^32.1.0"
+  }
+}
