@@ -1,4 +1,4 @@
-<p align="center"> An Unofficial Dynami Office Online Desktop Client. Free of Cost.</p>
+<p align="center"> An Unofficial Dynami Office Online Desktop Client made with Electron. Free of Cost.</p>
 
 # Introducing
 As we know Dynami Office is a paid service, they also have a free Web version.<br><br>
